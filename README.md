@@ -1,4 +1,4 @@
-# 🚀 Enterprise SaaS Billing & ERP Platform
+# 🚀 SaaS BillingPro & ERP Platform
 
 A full-stack, multi-tenant SaaS Billing, Invoicing, Inventory, and ERP Platform built with **Node.js, Express, SQLite (better-sqlite3), React 19, Vite, and Tailwind CSS**.
 
