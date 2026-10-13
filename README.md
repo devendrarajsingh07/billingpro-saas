@@ -184,4 +184,4 @@ Start the server and open `/api/docs` for the Swagger UI, or retrieve the raw Op
 
 ## 📄 License
 
-No license file is currently included. Add one before distributing or reusing this project outside its intended scope.
+Released under the [MIT License](LICENSE).
